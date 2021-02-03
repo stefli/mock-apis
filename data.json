@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "id": 0,
+            "name": "stefli",
+            "gender": "male",
+            "mobile": 13400000000,
+            "addresses": [
+                {
+                    "address": "Shanghai"
+                },
+                {
+                    "address": "Chengdu"
+                }
+            ]
+        }
+    ],
+    "roles": [
+        {
+            "code": "ROLE_ADMIN",
+            "description": "Administrator"
+        },
+        {
+            "code": "ROLE_USER",
+            "description": "Common user"
+        }
+    ]
+}
