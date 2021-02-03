@@ -5,4 +5,4 @@ Mock apis
 npm install -g json
 
 # Run the mock server
-json-server --watch user.json
+json-server --watch data.json
